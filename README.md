@@ -8,7 +8,7 @@ The script specializes in collecting information about sites, protocols and serv
 # Department of Linux:
 The Linux section contains three sections:
 
-## 1 - Department of repairing the problems of Alkali system Linux
+## 1 - Department of repairing the problems of the Kali Linux system
 The script is specialized in repairing most of the problems of the Kali Linux system quickly and effectively.
 
 ## 2- Information collection department
