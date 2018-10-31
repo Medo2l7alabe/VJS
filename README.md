@@ -16,6 +16,16 @@ The script is specialized in collecting information in an amazing and easy way f
 
 ## 3 - Department of Metasploit
 The script is designed to facilitate the handling of the Metasploit and the Baylod industry in an easy and fast manner.
+
+## 4 - Encryption section by Hash algorithms
+The script encrypts any word or text in a very easy and simple way by using all Hash algorithms
+md5
+sha1
+sha224
+sha256
+sha384
+sha512
+
 # Department Termux:
 
 ## 1. Information collection section on protocols
