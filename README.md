@@ -19,12 +19,13 @@ The script is designed to facilitate the handling of the Metasploit and the Bayl
 
 ## 4 - Encryption section by Hash algorithms
 The script encrypts any word or text in a very easy and simple way by using all Hash algorithms
-md5
-sha1
-sha224
-sha256
-sha384
-sha512
+
+### md5
+### sha1
+### sha224
+### sha256
+### sha384
+### sha512
 
 # Department Termux:
 
@@ -36,6 +37,16 @@ The Termux application is designed to facilitate the easy handling of Metasploit
 
 ## 3. Installation of the Kali Hunter system
 The Termux application works on a system installation with the click of a button without problems.
+
+## 4 - Encryption section by Hash algorithms
+The script encrypts any word or text in a very easy and simple way by using all Hash algorithms
+
+### md5
+### sha1
+### sha224
+### sha256
+### sha384
+### sha512
 
 # Follow the virtual justice system on social networking sites:
 ```
